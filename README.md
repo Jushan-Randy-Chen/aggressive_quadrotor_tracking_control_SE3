@@ -13,4 +13,4 @@ trajectories using incremental nonlinear dynamic inversion and differ-
 ential flatness,” IEEE Transactions on Control Systems Technology,
 vol. 29, no. 3, pp. 1203–1218, 2021
 
-
+#### Note that due to the complexity in modeling a real UAV with ESCs, motors, sensors, we leave the UAV block incomplete in the motor control component. However, everything else in our Simulink model is a precise implementation of the architecture proposed in the paper above.
